@@ -948,7 +948,7 @@ scale slider{ background-color: transparent; padding: 8px; margin: -8px; box-sha
 
 scale:hover slider,
 scale.marks-after slider,
-scale.marks-before slider{background-color: white; box-shadow:  0 0 0 1px alpha(black,0.2); }
+scale.marks-before slider{background-color: @gtk_selected_bg_color; box-shadow: none; }
 
 /* Scrollbars */
 
