@@ -1,4 +1,4 @@
-[Desktop ]
+[Desktop Entry]
 Type=X-GNOME-Metatheme
 Name=Quartz Dark
 Comment=GTK Theme
@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Quartz Dark
 MetacityTheme=Quartz Dark
-IconTheme=Luna-Dark
-CursorTheme=Luna
+IconTheme=Marwaita-Dark
+CursorTheme=Marwaita
 CursorSize=24
